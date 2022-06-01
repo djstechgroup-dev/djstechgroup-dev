@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Full Stack Development with over 10 years of experience in Java/JS, Angular, Vue, React, Python, NumPy, SciPy, Scikit-learn. 
+Lead development of $500K research project which was deemed a "gold standard" by the client. 
+Increased client's revenue 2-fold after fine-tuning AI/ML-based algorithms. Well-aqcuainted with HR methodologies.
